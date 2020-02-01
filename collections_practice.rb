@@ -52,4 +52,5 @@ def sum_array(integers)
 end
 
 def add_s(array)
-  
+  array.each_with_index.collect do |string, index|
+    

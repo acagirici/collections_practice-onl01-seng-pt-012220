@@ -7,3 +7,6 @@ def sort_array_desc(integers)
     second_num <=> first_num
   end
 end
+
+def sort_array_char_count(strings)
+  new_arr = []

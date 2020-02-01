@@ -39,4 +39,5 @@ def kesha_maker(string)
   kesha
 end
 
-def find_a
+def find_a(array)
+  array.select do 

@@ -29,7 +29,7 @@ new_arr = integers.reverse
 new_arr
 end 
 
-def kesha_maker(strings)
+def kesha_maker(string)
   kesha = []
   string.each do |word|
     word_string = word.split ""

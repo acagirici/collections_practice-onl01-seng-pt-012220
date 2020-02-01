@@ -25,3 +25,4 @@ def swap_elements_from_to(array, index, destination_index)
 end
 
 reverse_array(integers)
+new_arr = integers.reverse

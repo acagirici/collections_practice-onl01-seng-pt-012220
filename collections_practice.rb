@@ -33,4 +33,5 @@ def kesha_maker(strings)
   kesha = []
   string.each do |word|
     word_string = word.split ""
-    word_string[2] 
+    word_string[2] = "$"
+    

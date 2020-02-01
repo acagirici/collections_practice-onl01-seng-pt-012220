@@ -51,3 +51,5 @@ def sum_array(integers)
   end 
 end
 
+def add_s(array)
+  

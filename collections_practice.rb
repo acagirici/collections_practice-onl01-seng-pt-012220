@@ -9,4 +9,4 @@ def sort_array_desc(integers)
 end
 
 def sort_array_char_count(strings)
-  new_arr = []
+  strings.sort do 

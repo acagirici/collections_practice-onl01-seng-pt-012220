@@ -54,9 +54,9 @@ end
 def add_s(array)
   array.each_with_index.collect do |string, index|
     if index == 1 
-     return string
+      string
     else 
-    return string << "s"
+     string << "s"
     end 
   end 
 end

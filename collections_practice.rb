@@ -35,3 +35,6 @@ def kesha_maker(strings)
     word_string = word.split ""
     word_string[2] = "$"
     kesha << word_string.join
+  end
+  kesha
+end

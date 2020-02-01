@@ -32,4 +32,4 @@ end
 def kesha_maker(strings)
   kesha = []
   string.each do |word|
-    word_string = word
+    word_string = word.split

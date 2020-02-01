@@ -31,4 +31,4 @@ end
 
 def kesha_maker(strings)
   kesha = []
-  
+  string.each do 
